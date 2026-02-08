@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi, I'm Joshnavi 👋
 
-<!--
-**joshnavi677-collab/joshnavi677-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Artificial Intelligence & Machine Learning Student  
+💻 Interested in Python, Machine Learning, and Data Analysis  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I’m Learning
+- Python programming
+- Data handling with Pandas & NumPy
+- Machine Learning fundamentals
+- Data preprocessing and visualization
+
+---
+
+### 📂 My Repositories
+- python-for-aiml
+- machine-learning-basics
+
+---
+
+### 🎯 Goals
+- Build strong foundations in AIML
+- Work on ML mini-projects
+- Maintain consistent GitHub activity
+
+---
+
+📍 Location: India  
+📚 Status: Learning in progress 🚀
